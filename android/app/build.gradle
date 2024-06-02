@@ -25,7 +25,7 @@ if (flutterVersionName == null) {
 android {
     namespace "com.example.flutter_video_editor"
     compileSdk flutter.compileSdkVersion
-    compileSdkVersion 33
+    // compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
     compileOptions {
